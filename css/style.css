@@ -96,10 +96,11 @@ footer .footerTitle{
     background-size: cover;
 }
 footer .footerText{
-    padding: 0.5rem 3.5rem 3rem;
+    padding: 0.5rem 3.5rem 3rem 5.1rem;
 }
 footer .footerText p{
     font-size: 1.3rem;
+    text-indent: -1.6rem;
     line-height: 2rem;
     color: #555555;
 }
