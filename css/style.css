@@ -1,0 +1,88 @@
+header{
+    width: 37.5rem;
+    height: 21.6rem;
+    background: url("../images/header.png") center no-repeat;
+    background-size: cover;
+}
+section{
+    box-sizing: border-box;
+    padding-top: 0.75rem;
+    width: 37.5rem;
+}
+section .messageTitle{
+    margin: 0 auto 1.35rem;
+    width: 21.25rem;
+    height: 4.1rem;
+    font-size: 1.8rem;
+    color: #ffffff;
+    text-align: center;
+    line-height: 4.1rem;
+    background: url("../images/middleTitle.png") center no-repeat;
+    background-size: cover;
+}
+section .selectBox{
+    margin: 0 auto 1rem;
+    width: 30.5rem;
+    height: 5rem;
+}
+section .selectBox span{
+    float: left;
+    display: inline-block;
+    width: 9.75rem;
+    height: 5rem;
+    font-size: 1.5rem;
+    color: #ffffff;
+    text-align: center;
+    line-height: 5rem;
+    border-radius: 5rem 0 0 5rem;
+    background-color: #55beff;
+}
+section .selectBox select,section .selectBox input{
+    padding-left: 2.7rem;
+    width: 20.75rem;
+    height: 5rem;
+    font-size: 1.8rem;
+    text-align: center;
+    color: #999999;
+    border: 2px solid #55beff;
+    border-radius: 0 5rem 5rem 0;
+    background-color: #ffffff;
+}
+section .selectBox input{
+    box-sizing: border-box;
+    text-align: start;
+    float: right;
+}
+section .button{
+    margin: 2rem auto 4.8rem;
+    width: 23.05rem;
+    height: 6.25rem;
+    font-size: 2.4rem;
+    color: #ffffff;
+    line-height: 6rem;
+    text-align: center;
+    background: url("../images/button.png") center no-repeat;
+    background-size: cover;
+}
+footer{
+    width: 37.5rem;
+}
+footer .footerTitle{
+    margin: 0 auto 1.4rem;
+    width: 33.05rem;
+    height: 4rem;
+    font-size: 1.8rem;
+    color: #ffffff;
+    text-align: center;
+    line-height: 4rem;
+    background: url("../images/footerTitleBg.png") center no-repeat;
+    background-size: cover;
+}
+footer .footerText{
+    padding: 0.5rem 3.5rem 3rem;
+}
+footer .footerText p{
+    font-size: 1.3rem;
+    line-height: 2rem;
+    color: #555555;
+}
