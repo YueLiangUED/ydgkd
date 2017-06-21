@@ -38,7 +38,7 @@ section .selectBox span{
     background-color: #55beff;
 }
 section .selectBox select,section .selectBox input{
-    padding-left: 2.7rem;
+    padding-left: 2rem;
     width: 20.75rem;
     height: 5rem;
     font-size: 1.4rem;
@@ -61,7 +61,7 @@ section .selectBox.jiantou span:last-child{
     right: 1.25rem;
     display: block;
     width: 1.85rem;
-    height: 0.95rem;
+    height: 0.9rem;
     background: url("../images/jiantou.png") center no-repeat;
     background-size: cover;
 }
